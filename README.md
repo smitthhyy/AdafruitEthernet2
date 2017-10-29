@@ -8,10 +8,18 @@ uses the Wiznet [W5100] chipset.
 For more information about this library please visit us at: 
 http://www.arduino.cc/en/Reference/Ethernet
 
+About this fork
+----------------
+
+The Ethernet2 library master has been modified/updated which breaks certain things with the 
+Adafruit Ethernet Featherwing on the Feather Huzzah ESP8266. This fork is an earlier tested
+and proven fork of the original Ethernet2 library renamed so both can be available in the
+Arduino IDE.
 
 W5500 Shields
 -------------
 
+* [Adafruit Ethernet Featherwing](https://learn.adafruit.com/adafruit-wiz5500-wiznet-ethernet-featherwing/usage)
 * [Adafruit W5500 Ethernet Shield](https://www.adafruit.com/products/2971)
 * [Arduino Ethernet Shield v2](https://www.arduino.cc/en/Main/ArduinoEthernetShieldV2)
 * [Industruino Ethernet module](https://industruino.com/shop/product/ethernet-expansion-module-10)
